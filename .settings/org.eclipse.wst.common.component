@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ProjectCode">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="zxing-javase.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/91807/Desktop/New folder/Project (2)/Project/Android based vehicle infermation/Android based vehicle infermation/build/web/WEB-INF/lib/zxing-javase.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zxing.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/91807/Desktop/New folder/Project (2)/Project/Android based vehicle infermation/Android based vehicle infermation/build/web/WEB-INF/lib/zxing.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.0-bin.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/91807/Desktop/New folder/Project (2)/Project/Android based vehicle infermation/Android based vehicle infermation/build/web/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="ProjectCode"/>
+        <property name="java-output-path" value="/ProjectCode/build/classes"/>
+    </wb-module>
+</project-modules>
