@@ -1,8 +1,4 @@
-<%-- 
-    Document   : generateQrcodeDriver
-    Created on : Sep 8, 2022, 10:46:35 AM
-    Author     : Lunar
---%>
+
 <%@page import="Demo.Demo"%>
 <%@page import="javax.swing.JOptionPane"%>
 <%@ page import="java.sql.*"%>
