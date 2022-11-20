@@ -4,7 +4,7 @@
 &nbsp
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sai-arun-mendu-406848177/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sai-arun-mendu-406848177/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-hackerrank-URL">
