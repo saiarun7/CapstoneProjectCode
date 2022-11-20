@@ -57,7 +57,7 @@
                               <li class="active"> <a href="index.html">Home</a> </li>
                               <li> <a href="adminlogin.jsp">Admin</a> </li>
                               <li> <a href="userlongin.jsp"> User</a> </li>
-                              <li> <a href="driverlogin.jsp">Driver</a> </li>
+<!--                               <li> <a href="driverlogin.jsp">Driver</a> </li> -->
                               <li> <a href="#contact">Contact us</a> </li>
                            </ul>
                         </nav>
@@ -101,9 +101,9 @@
           </center>
       </div>
               
-            <div class="copyright">
+<!--             <div class="copyright">
                <p>Copyright 2022 All Right Reserved By <a href="">Copy rights</a></p>
-            </div>
+            </div> -->
          </div>
       </footr>
       <!-- end footer -->
