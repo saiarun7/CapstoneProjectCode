@@ -1,9 +1,3 @@
-<%-- 
-    Document   : adddriveract
-    Created on : Sep 4, 2022, 8:37:55 PM
-    Author     : Lunar
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*"%>
 <%@ include file="connect.jsp" %>
@@ -28,24 +22,7 @@
            str6 = request.getParameter("email");
            str7 = request.getParameter("zip");
            str8 = request.getParameter("exprnc");
-           /*str9 = request.getParameter("ch5");
-           str91 = request.getParameter("ch4");
-           str92 = request.getParameter("ch3");
-           str93 = request.getParameter("ch2");
-           str94 = request.getParameter("ch1");*/
            str9 = request.getParameter("about");
-          /* String lang="";
-           if(str9=="1"){
-               lang = str9 +",";
-           } if(str91=="2"){
-               lang = lang +","+str91;
-           } if(str92=="3"){
-               lang = lang +","+str92;
-           }  if(str93=="4"){
-               lang = lang +","+str93;
-           } if(str94=="0"){
-               lang = lang +","+str94;
-           }*/
            Statement st = connection.createStatement();
            int k = st.executeUpdate("insert into driver_DB(dname,dsname,dob,addrs,phone,email,zip,dexp,abountdrd,status) values('"+str1+"','"+str2+"','"+str3+"','"+str4+"','"+str5+"','"+str6+"','"+str7+"','"+str8+"','"+str9+"','Active')");
            if(k>0){
