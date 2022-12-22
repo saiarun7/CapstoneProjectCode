@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/sai-arun-mendu-406848177/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-hackerrank-URL">
+  <a href="https://www.hackerrank.com/mendusaiarun">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </div>
